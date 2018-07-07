@@ -124,11 +124,11 @@ wh_content_item_tag {
   color: #bfbfbf;
 }
 .wh_content_item .wh_isToday {
-  background: yellow;
+  background: red;
   border-radius: 100px;
 }
 .wh_content_item .wh_chose_day {
-  background: green;
+  background: red;
   border-radius: 100px;
 }
 </style>
